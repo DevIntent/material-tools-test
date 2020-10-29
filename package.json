@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "angular": "^1.8.0",
-    "angular-material": "^1.1.23",
-    "angular-material-tools": "^1.0.0-beta.9",
+    "angular": "^1.8.2",
+    "angular-material": "^1.2.1",
+    "angular-material-tools": "^1.0.0-rc.0",
     "gulp": "^3.9.1"
   },
   "scripts": {
